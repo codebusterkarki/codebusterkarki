@@ -55,7 +55,7 @@ When I'm not coding, you'll find me mentoring others through Robotics concepts o
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
+  <tr align ="center">
     <td align="center">
       <h3>🎬 BingeBuddy</h3>
       <p><strong>Smart Entertainment Tracker</strong></p>
@@ -67,7 +67,7 @@ When I'm not coding, you'll find me mentoring others through Robotics concepts o
       </p>
       <a href="https://github.com/codebusterkarki/BingeBuddy"><strong>View Project →</strong></a>
     </td>
-    <td align="center">
+    <td  align="center">
       <h3>✅ KaamKaaj</h3>
       <p><strong>Productivity Platform</strong></p>
       <p>Task management & organization tool</p>
