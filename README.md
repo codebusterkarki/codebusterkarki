@@ -3,7 +3,7 @@
 # Hey, I'm codebusterkarki 👋
 
 <a href="https://github.com/codebusterkarki">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🎓+Computer+Science+Student;🐍+Python+Educator;✨+Building+Creative+Solutions;📚+Continuous+Learner" alt="Typing SVG" />
+ +Computer+Science+Student;🐍+Python+Educator;✨+Building+Creative+Solutions;📚+Continuous+Learner" alt="Typing SVG" />
 </a>
 
 </div>
@@ -35,13 +35,13 @@ CS student & Python educator from India. I love **learning by building**, **shar
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[BingeBuddy](https://github.com/codebusterkarki/BingeBuddy)** | Smart entertainment tracker & recommendation engine | Python • Flask • APIs |
-| **[KaamKaaj](https://github.com/codebusterkarki/KaamKaaj)** | Productivity & task management platform | Python • Web Stack |
+| **[BingeBuddy](https://github.com/codebusterkarki/BingeBuddy)** | Smart entertainment tracker & recommendation engine | MERN  |
+| **[KaamKaaj](https://github.com/codebusterkarki/KaamKaaj)** | Productivity & task management platform | HTML • Tailwind CSS • React js  |
 | **[Simon-Game](https://github.com/codebusterkarki/Simon-Game)** | Interactive memory game with game logic | HTML • CSS • JavaScript |
-| **[RC-car](https://github.com/codebusterkarki/RC-car)** | Embedded systems & robotics project | Hardware • Electronics |
-| **[Search-Engine-Clone](https://github.com/codebusterkarki/Search-Engine-Clone)** | Indexing & retrieval system | Python • Search Logic |
-| **[ecom-pilot](https://github.com/codebusterkarki/ecom-pilot)** | E-commerce assistant tool | Python • Web |
-| **[dihaari-client](https://github.com/codebusterkarki/dihaari-client)** | Utility-focused client application | Python/JavaScript |
+| **[RC-car](https://github.com/codebusterkarki/RC-car)** | Embedded systems & robotics project | Hardware • Electronics • C++ |
+| **[Search-Engine-Clone](https://github.com/codebusterkarki/Search-Engine-Clone)** | Indexing & retrieval system |HTML • CSS  • Search Logic |
+| **[ecom-pilot](https://github.com/codebusterkarki/ecom-pilot)** | E-commerce assistant tool | React js |
+| **[dihaari-client](https://github.com/codebusterkarki/dihaari-client)** | Utility-focused client application | React js |
 | **[Portfolio-website](https://github.com/codebusterkarki/Portfolio-website)** | Personal portfolio & project showcase | HTML • CSS • JavaScript |
 
 ---
@@ -62,11 +62,11 @@ CS student & Python educator from India. I love **learning by building**, **shar
 
 ## 🎯 What I'm Learning
 
-- 🧠 Advanced Python & system design
-- 🌐 Full-stack web development  
+- 🧠 Learning MERN Stack
+- 🌐 Frontend Development
 - 📱 Building scalable applications
 - 🤝 Open-source contributions
-- 📖 Teaching Python to learners
+
 
 ---
 
@@ -91,30 +91,3 @@ CS student & Python educator from India. I love **learning by building**, **shar
   
 </div>
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:      # Allows manual triggering
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@master
-        id: snake-svg
-        with:
-          github_user_name: codebusterkarki
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
