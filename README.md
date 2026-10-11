@@ -20,7 +20,7 @@
 
 **💡 Philosophy:** Every line of code is a learning opportunity, and every project is a chance to help someone else grow.
 
-When I'm not coding, you'll find me mentoring others through Python concepts or exploring new ideas in technology.
+When I'm not coding, you'll find me mentoring others through Robotics concepts or exploring new ideas in technology.
 
 </div>
 
