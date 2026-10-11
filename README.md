@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm <b>codebusterkarki</b>
+# 👋 Hey, I'm <b>CodebusterKarki</b>
 
 ### Software Developer • 🐍 Robotics Educator • ✨ Creative Problem Solver • 📚 Continuous Learner
 
@@ -51,105 +51,142 @@ When I'm not coding, you'll find me mentoring others through Robotics concepts o
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
-  <tr align ="center">
-    <td align="center">
-      <h3>🎬 BingeBuddy</h3>
-      <p><strong>Smart Entertainment Tracker</strong></p>
-      <p>Recommendation engine for shows & movies</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb" />
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs" />
-      </p>
-      <a href="https://github.com/codebusterkarki/BingeBuddy"><strong>View Project →</strong></a>
+  <tr>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
+        <h3>🎬 BingeBuddy</h3>
+        <p><strong>Smart Entertainment Tracker</strong></p>
+        <p style="font-size: 14px; color: #f0f0f0;">Intelligent recommendation engine for shows & movies with personalized suggestions</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+        </p>
+        <a href="https://github.com/codebusterkarki/BingeBuddy">
+          <img src="https://img.shields.io/badge/View%20Project%20→-00D9FF?style=for-the-badge&logo=github" />
+        </a>
+      </div>
     </td>
-    <td  align="center">
-      <h3>✅ KaamKaaj</h3>
-      <p><strong>Productivity Platform</strong></p>
-      <p>Task management & organization tool</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript" />
-      </p>
-      <a href="https://github.com/codebusterkarki/KaamKaaj"><strong>View Project →</strong></a>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px;">
+        <h3>✅ KaamKaaj</h3>
+        <p><strong>Productivity Platform</strong></p>
+        <p style="font-size: 14px; color: #f0f0f0;">Task management & organization tool to boost your workflow efficiency</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <a href="https://github.com/codebusterkarki/KaamKaaj">
+          <img src="https://img.shields.io/badge/View%20Project%20→-FFD700?style=for-the-badge&logo=github" />
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>🎮 Simon Game</h3>
-      <p><strong>Memory Game</strong></p>
-      <p>Interactive game with engaging logic</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34C26?logo=html5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript" />
-      </p>
-      <a href="https://github.com/codebusterkarki/Simon-Game"><strong>View Project →</strong></a>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 10px;">
+        <h3>🎮 Simon Game</h3>
+        <p><strong>Memory Game</strong></p>
+        <p style="font-size: 14px; color: #333;">Interactive game with engaging logic & dynamic difficulty levels</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <a href="https://github.com/codebusterkarki/Simon-Game">
+          <img src="https://img.shields.io/badge/View%20Project%20→-FF6B6B?style=for-the-badge&logo=github" />
+        </a>
+      </div>
     </td>
-    <td align="center">
-      <h3>🚗 RC Car</h3>
-      <p><strong>Robotics & Embedded Systems</strong></p>
-      <p>Hardware and electronics project</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus" />
-        <img src="https://img.shields.io/badge/Electronics-FF6B6B" />
-        <img src="https://img.shields.io/badge/Robotics-00D9FF" />
-      </p>
-      <a href="https://github.com/codebusterkarki/RC-car"><strong>View Project →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🔍 Search Engine Clone</h3>
-      <p><strong>Search & Indexing</strong></p>
-      <p>Custom indexing & retrieval system</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34C26?logo=html5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript" />
-      </p>
-      <a href="https://github.com/codebusterkarki/Search-Engine-Clone"><strong>View Project →</strong></a>
-    </td>
-    <td align="center">
-      <h3>🛒 ecom-pilot</h3>
-      <p><strong>E-commerce Assistant</strong></p>
-      <p>Smart shopping companion app</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript" />
-      </p>
-      <a href="https://github.com/codebusterkarki/ecom-pilot"><strong>View Project →</strong></a>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px;">
+        <h3>🚗 RC Car</h3>
+        <p><strong>Robotics & Embedded Systems</strong></p>
+        <p style="font-size: 14px; color: #f0f0f0;">Advanced hardware & electronics project with control systems</p>
+        <p>
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino" />
+          <img src="https://img.shields.io/badge/Robotics-FF1493?style=for-the-badge" />
+        </p>
+        <a href="https://github.com/codebusterkarki/RC-car">
+          <img src="https://img.shields.io/badge/View%20Project%20→-00D9FF?style=for-the-badge&logo=github" />
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>📁 dihaari-client</h3>
-      <p><strong>Utility Application</strong></p>
-      <p>Feature-rich client for productivity</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript" />
-      </p>
-      <a href="https://github.com/codebusterkarki/dihaari-client"><strong>View Project →</strong></a>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 10px;">
+        <h3>🔍 Search Engine Clone</h3>
+        <p><strong>Search & Indexing</strong></p>
+        <p style="font-size: 14px; color: #333;">Custom indexing & retrieval system with ranking algorithms</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <a href="https://github.com/codebusterkarki/Search-Engine-Clone">
+          <img src="https://img.shields.io/badge/View%20Project%20→-FFD700?style=for-the-badge&logo=github" />
+        </a>
+      </div>
     </td>
-    <td align="center">
-      <h3>🌐 Portfolio Website</h3>
-      <p><strong>Personal Showcase</strong></p>
-      <p>Portfolio & project showcase</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34C26?logo=html5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript" />
-      </p>
-      <a href="https://github.com/codebusterkarki/Portfolio-website"><strong>View Project →</strong></a>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%); padding: 20px; border-radius: 10px;">
+        <h3>🛒 ecom-pilot</h3>
+        <p><strong>E-commerce Assistant</strong></p>
+        <p style="font-size: 14px; color: #f0f0f0;">Smart shopping companion app with advanced features</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <a href="https://github.com/codebusterkarki/ecom-pilot">
+          <img src="https://img.shields.io/badge/View%20Project%20→-FF1493?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 10px;">
+        <h3>📁 dihaari-client</h3>
+        <p><strong>Utility Application</strong></p>
+        <p style="font-size: 14px; color: #333;">Feature-rich client for enhanced productivity & data management</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <a href="https://github.com/codebusterkarki/dihaari-client">
+          <img src="https://img.shields.io/badge/View%20Project%20→-00D9FF?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 10px;">
+        <h3>🌐 Portfolio Website</h3>
+        <p><strong>Personal Showcase</strong></p>
+        <p style="font-size: 14px; color: #333;">Interactive portfolio showcasing all projects & achievements</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <a href="https://github.com/codebusterkarki/Portfolio-website">
+          <img src="https://img.shields.io/badge/View%20Project%20→-FF6B6B?style=for-the-badge&logo=github" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
