@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm <b>codebusterkarki</b>
 
-### CS Student • 🐍 Python Educator • ✨ Creative Problem Solver • 📚 Continuous Learner
+### Software Developer • 🐍 Robotics Educator • ✨ Creative Problem Solver • 📚 Continuous Learner
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Creative+Solutions;Learning+by+Building;Sharing+Knowledge;One+Line+at+a+Time)](https://github.com/codebusterkarki)
 
